@@ -10,4 +10,4 @@ To ensure your PR is dealt with swiftly please check the following:
 - [ ] Your additions are commercial software that offer their services for free to Open Source projects.
 - [ ] Your additions contain any relevant tags: `requires-approval`
 - [ ] You have searched the repository for any relevant issues or PRs.
-- [ ] Any category you are creating has the minimum requirement of 3 items.
+- [ ] Any category you are creating has the minimum requirement of 2 items.
