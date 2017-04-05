@@ -8,7 +8,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Contributing
 
-Please see [Contributing](.github/CONTRIBUTING.md) for details.
+Please see the [contributor guidelines](.github/CONTRIBUTING.md) and [code of conduct](.github/CODE-OF-CONDUCT.md) for details.
 
 ## Tags
 
