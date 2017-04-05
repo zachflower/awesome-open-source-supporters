@@ -14,7 +14,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Use the following format: ``[List Name](link) `tag` - description``
+- Use the following format: ``[Company Name](link) `tag` - description``
 - Entries should be ordered alphabetically.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling and grammar.
