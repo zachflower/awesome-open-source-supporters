@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+  - 2.2
+
+before_install:
+  - gem install awesome_bot
+  - gem install danger
+
+script:
+  - git diff master.. -U0 README.md | grep -Pos "(?<=^\+).*" >> temp.md || (exit 0)
+  - awesome_bot README.md --allow-redirect
+  - danger --verbose
+
+notifications:
+  email: false
