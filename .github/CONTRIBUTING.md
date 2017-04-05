@@ -21,7 +21,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - A  minimum of 2 entries are required to start a new category, otherwise add to the Miscellaneous category.
 
-
 Thank you for your suggestions!
 
 ## Updating your Pull Request

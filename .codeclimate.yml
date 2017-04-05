@@ -4,6 +4,13 @@ engines:
     enabled: true
   markdownlint:
     enabled: true
+    checks:
+      MD013:
+        enabled: false
+      MD029:
+        enabled: false
+      MD036:
+        enabled: false
 ratings:
   paths: []
 exclude_paths: []
