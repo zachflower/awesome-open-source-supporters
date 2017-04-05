@@ -54,7 +54,6 @@ While many companies use the public repositories feature of GitHub, Bitbucket, a
 
 ## Continuous Integration
 
-- [Applitools](https://applitools.com/) `require-approval` - Automated visual testing
 - [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD
 - [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment
