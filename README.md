@@ -1,6 +1,6 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/awesome-freeforopensource/Lobby) [![Build Status](https://travis-ci.org/zachflower/awesome-freeforopensource.svg?branch=master)](https://travis-ci.org/zachflower/awesome-freeforopensource) [![Issue Count](https://codeclimate.com/github/zachflower/awesome-freeforopensource/badges/issue_count.svg)](https://codeclimate.com/github/zachflower/awesome-freeforopensource)
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/awesome-freeforopensource/Lobby) [![Build Status](https://travis-ci.org/zachflower/awesome-freeforopensource.svg?branch=master)](https://travis-ci.org/zachflower/awesome-freeforopensource) [![Issue Count](https://codeclimate.com/github/zachflower/awesome-freeforopensource/badges/issue_count.svg)](https://codeclimate.com/github/zachflower/awesome-freeforopensource)
 
-# Awesome Free for Open Source
+# Awesome Free for Open Source [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome companies that offer their tools and services for free to Open Source and public projects.
 
