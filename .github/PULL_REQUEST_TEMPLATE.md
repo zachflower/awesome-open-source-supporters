@@ -1,4 +1,4 @@
-Thank you for taking the time to work on a PR for Awesome-FreeForOpenSource!
+Thank you for taking the time to work on a PR for Awesome-Open-Source-Supporters!
 
 To ensure your PR is dealt with swiftly please check the following:
 
