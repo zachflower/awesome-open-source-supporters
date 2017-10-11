@@ -61,6 +61,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Dependency CI](https://dependencyci.com/) - Continuous dependency testing.
 - [deppbot](https://www.deppbot.com/) - Automated security and dependency updates.
 - [gemnasium](https://gemnasium.com/) - Automated dependency management.
+- [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (on GitHub).
 - [pyup.io](https://pyup.io/) - Python dependency management.
 - [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 - [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
