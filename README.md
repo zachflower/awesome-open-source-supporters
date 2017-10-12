@@ -83,6 +83,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Monitoring
 
+- [BugSnag](https://www.bugsnag.com/) `requires-approval` - Application error tracking and reporting.
 - [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
 - [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
 - [Honeybadger](https://www.honeybadger.io/) `requires-approval` - Exception and uptime monitoring for Ruby.
