@@ -68,6 +68,11 @@ A curated list of awesome companies that offer their tools and services for free
 - [VersionEye](https://www.versioneye.com/) - Notification system for software packages.
 - [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
+## Exception Reporting
+
+- [BugSnag](https://www.bugsnag.com/) `requires-approval` - Exception tracking and reporting.
+- [Honeybadger](https://www.honeybadger.io) `requires-approval` `non-commercial` - Exception and uptime monitoring for Ruby.
+
 ## Package Management
 
 - [MyGet](https://myget.org/) `requires-approval` - NuGet, npm, Bower, Maven, and Vsix package hosting.
@@ -85,7 +90,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
 - [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
-- [Honeybadger](https://www.honeybadger.io/) `requires-approval` - Exception and uptime monitoring for Ruby.
 
 ## Localization
 
@@ -125,3 +129,5 @@ Please see the [contributor guidelines](.github/CONTRIBUTING.md) and [code of co
 ## Tags
 
 While many companies use the public repositories feature of GitHub, Bitbucket, and GitLab to determine the Open Source status of a project, there are others who require more verification. These companies have been marked with a `requires-approval` tag, indicating that an application process is required to take advantage of their Open Source benefits.
+
+Some companies make their products available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.
