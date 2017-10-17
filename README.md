@@ -128,6 +128,10 @@ Please see the [contributor guidelines](.github/CONTRIBUTING.md) and [code of co
 
 ## Tags
 
+### `requires-approval`
+
 While many companies use the public repositories feature of GitHub, Bitbucket, and GitLab to determine the Open Source status of a project, there are others who require more verification. These companies have been marked with a `requires-approval` tag, indicating that an application process is required to take advantage of their Open Source benefits.
+
+### `non-commercial`
 
 Some companies make their products available for open source, but only for non-commercial projects. These companies have been marked with a `non-commercial` tag.
