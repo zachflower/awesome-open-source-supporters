@@ -51,6 +51,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
 - [continuousphp](https://continuousphp.com/) - CI/CD for PHP applications.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
+- [GitLab CI](https://about.gitlab.com/features/gitlab-ci-cd/) - GitLab Continuous Integration & Deployment
 - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
 - [Shippable](https://www.shippable.com/) - DevOps automation.
