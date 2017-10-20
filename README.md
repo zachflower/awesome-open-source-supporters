@@ -122,6 +122,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
 - [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
 - [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
+- [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding. Creators of [uppy.io](https://uppy.io) and [tus.io](https://tus.io).
 
 ## Contributing
 
