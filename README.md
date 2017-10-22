@@ -108,7 +108,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Miscellaneous
 
-- [Algolia](https://www.algolia.com) - `requires-approval` Search as a service API
+- [Algolia](https://www.algolia.com) - `requires-approval` Search as a service API.
 - [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
 - [BackHub](https://backhub.co/) - Automated GitHub repository backups.
