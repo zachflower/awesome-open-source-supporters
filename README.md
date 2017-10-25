@@ -115,6 +115,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
 - [Codota](https://www.codota.com/) - AI pair programming assistant.
+- [Confluence](https://www.atlassian.com/software/confluence) `requires-approval` - Collaborative documentation and project planning.
 - [Distelli](https://www.distelli.com/) - DevOps dashboard for Kubernetes.
 - [GitBook](https://www.gitbook.com/) - Collaborative application documentation.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
