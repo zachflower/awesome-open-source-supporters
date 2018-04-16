@@ -123,6 +123,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
 - [Libraries.io](https://libraries.io/) - Open source discovery service.
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
+- [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
 - [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
 - [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
 - [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
