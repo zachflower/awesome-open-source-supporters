@@ -69,7 +69,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ## Documentation
-- [Confluence](https://www.atlassian.com/software/confluence) `requires-approval` - Collaborative documentation and project planning.
 - [GitBook](https://www.gitbook.com/) - Collaborative application documentation.
 
 ## Exception Reporting
@@ -113,6 +112,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [Algolia](https://www.algolia.com) - `requires-approval` Search as a service API.
 - [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
+- [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
 - [BackHub](https://backhub.co/) - Automated GitHub repository backups.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
