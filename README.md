@@ -119,7 +119,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Distelli](https://www.distelli.com/) - DevOps dashboard for Kubernetes.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
-- [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` - Software vendor specializing in the creation of intelligent development tools.
+- [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
 - [Libraries.io](https://libraries.io/) - Open source discovery service.
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
 - [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
