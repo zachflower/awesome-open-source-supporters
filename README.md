@@ -25,7 +25,6 @@ A curated list of awesome companies that offer their tools and services for free
 ## Code Quality
 
 - [Better Code Hub](https://bettercodehub.com/) - Source code maintainability analysis.
-- [bitHound](https://www.bithound.io/) - Node.js and npm code analysis.
 - [Codacy](https://www.codacy.com/) - Automated code reviews & analytics.
 - [Code Climate](https://codeclimate.com/) - Automated code review & health analysis.
 - [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
@@ -65,7 +64,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [pyup.io](https://pyup.io/) - Python dependency management.
 - [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 - [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
-- [VersionEye](https://www.versioneye.com/) - Notification system for software packages.
 - [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ## Documentation
