@@ -91,6 +91,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
 - [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
+- [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron job monitoring.
 
 ## Localization
 
