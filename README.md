@@ -46,9 +46,10 @@ A curated list of awesome companies that offer their tools and services for free
 - [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers.
 - [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
-- [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
+- [CloudBees CodeShip](https://codeship.com/) - Continuous integration, delivery, and deployment.
 - [continuousphp](https://continuousphp.com/) - CI/CD for PHP applications.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
+- [Jenkins X](https://jenkins-x.io/) - CI/CD for Kubernetes.
 - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
 - [Shippable](https://www.shippable.com/) - DevOps automation.
@@ -73,6 +74,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [BugSnag](https://www.bugsnag.com/) `requires-approval` - Exception tracking and reporting.
 - [Honeybadger](https://www.honeybadger.io) `requires-approval` `non-commercial` - Exception and uptime monitoring for Ruby.
+- [Sentry](https://sentry.io) - Exception tracking and reporting
 
 ## Package Management
 
