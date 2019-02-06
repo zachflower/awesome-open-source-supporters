@@ -44,6 +44,7 @@ A curated list of awesome companies that offer their tools and services for free
 ## Continuous Integration
 
 - [AppVeyor](https://www.appveyor.com/) - CI/CD for Windows developers.
+- [Bitrise](https://www.bitrise.io/) - Hosted CI/CD for Android and iOS, free for Public Projects.
 - [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
 - [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
