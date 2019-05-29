@@ -84,7 +84,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [HuBoard](https://huboard.com/) - GitHub-backed kanban boards.
 - [Taiga.io](https://taiga.io/) - Project management for agile developers.
-- [Waffle.io](https://waffle.io/) - Project management for GitHub issues.
 - [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 - [Zube](https://zube.io/) - Project management for GitHub issues.
 
