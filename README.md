@@ -66,6 +66,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ## Documentation
+
 - [GitBook](https://www.gitbook.com/) - Collaborative application documentation.
 
 ## Exception Reporting
