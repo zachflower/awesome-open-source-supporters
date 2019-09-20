@@ -58,8 +58,6 @@ A curated list of awesome companies that offer their tools and services for free
 ## Dependency Management
 
 - [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, Python, JavaScript and PHP.
-- [Dependency CI](https://dependencyci.com/) - Continuous dependency testing.
-- [deppbot](https://www.deppbot.com/) - Automated security and dependency updates.
 - [gemnasium](https://gemnasium.com/) - Automated dependency management.
 - [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (on GitHub).
 - [pyup.io](https://pyup.io/) - Python dependency management.
