@@ -1,0 +1,27 @@
+name: Awesome
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  schedule:
+  - cron: 0 0 * * *
+
+jobs:
+  test:
+    name: Test for stale links in README.md
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Ruby 2.6
+      uses: actions/setup-ruby@v1
+      with:
+        ruby-version: 2.6.x
+        language: ruby
+    - name: Test with Awesome Bot
+      run: |
+        gem install awesome_bot
+        awesome_bot README.md --allow-redirect
