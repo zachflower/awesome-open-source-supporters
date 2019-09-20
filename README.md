@@ -2,7 +2,7 @@
 
 A curated list of awesome companies that offer their tools and services for free to Open Source and public projects.
 
-**Note: While there are many companies that have great free tiers (Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community.**
+**Note: While there are many companies that have great free tiers (Slack, for example), this list focuses specifically on organizations that have made an overt commitment to the Open Source community through additional offerings.**
 
 ## Contents
 
