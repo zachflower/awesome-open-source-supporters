@@ -126,6 +126,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
 - [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
 - [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
+- [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
 - [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
 
 ## Contributing
