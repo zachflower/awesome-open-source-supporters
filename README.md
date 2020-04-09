@@ -38,7 +38,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
 - [SensioLabsInsight](https://insight.sensiolabs.com/) - Automated code review for PHP.
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
-- [SideCI](https://sideci.com/) - Automated static code analysis.
+- [Sider](https://sider.review/) - Automated code review.
 - [StyleCI](https://styleci.io/) - PHP code style review.
 
 ## Continuous Integration
