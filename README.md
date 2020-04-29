@@ -17,6 +17,9 @@ A curated list of awesome companies that offer their tools and services for free
 - [Version Control](#version-control)
 - [Miscellaneous](#miscellaneous)
 
+## Chat
+- [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
+
 ## Code Coverage
 
 - [Codecov](https://codecov.io/) - Test coverage monitoring & alerting.
