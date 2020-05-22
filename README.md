@@ -85,6 +85,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Project Management
 
+- [GitScrum](https://gitscrum.com/) - Everything you need to manage your Projects Remotely
 - [HuBoard](https://huboard.com/) - GitHub-backed kanban boards.
 - [Taiga.io](https://taiga.io/) - Project management for agile developers.
 - [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
