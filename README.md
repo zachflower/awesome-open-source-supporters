@@ -31,7 +31,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 - [Ebert](https://ebertapp.io/) - Continuous static analysis.
 - [Hound](https://houndci.com/) - Source code style review.
-- [Landscape](https://landscape.io/) - Continuous Python code metrics.
 - [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 - [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
