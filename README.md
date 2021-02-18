@@ -81,6 +81,7 @@ A curated list of awesome companies that offer their tools and services for free
 ## Project Management
 
 - [HuBoard](https://huboard.com/) - GitHub-backed kanban boards.
+- [LogChimp](https://logchimp.codecarrot.net/) - Build better products by tracking your customers feedback.
 - [Taiga.io](https://taiga.io/) - Project management for agile developers.
 - [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 - [Zube](https://zube.io/) - Project management for GitHub issues.
