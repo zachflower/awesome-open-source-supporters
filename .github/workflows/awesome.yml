@@ -24,4 +24,4 @@ jobs:
     - name: Test with Awesome Bot
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-redirect
+        awesome_bot README.md --allow-redirect --white-list algolia.com
