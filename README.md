@@ -31,7 +31,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 - [Ebert](https://ebertapp.io/) - Continuous static analysis.
 - [Hound](https://houndci.com/) - Source code style review.
-- [Landscape](https://landscape.io/) - Continuous Python code metrics.
 - [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 - [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
@@ -39,6 +38,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [SensioLabsInsight](https://insight.sensiolabs.com/) - Automated code review for PHP.
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 - [Sider](https://sider.review/) - Automated code review.
+- [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
 - [StyleCI](https://styleci.io/) - PHP code style review.
 
 ## Continuous Integration
@@ -58,7 +58,6 @@ A curated list of awesome companies that offer their tools and services for free
 ## Dependency Management
 
 - [Dependabot](https://dependabot.com/) - Automated dependency updates for Ruby, Python, JavaScript and PHP.
-- [gemnasium](https://gemnasium.com/) - Automated dependency management.
 - [Greenkeeper](https://greenkeeper.io/) - Automated dependency management for NPM packages (on GitHub).
 - [pyup.io](https://pyup.io/) - Python dependency management.
 - [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
@@ -98,6 +97,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Crowdin](https://crowdin.com/) `requires-approval` - Localization management platform.
 - [LingoHub](https://lingohub.com/) `requires-approval` - Translation management.
 - [Locale](https://www.localeapp.com/) - Localization and Translation.
+- [Lokalise](https://lokalise.com/) `requires-approval` - Localization and Translation Software Tool.
 - [POEditor](https://poeditor.com/) `requires-approval` - Localization management platform.
 - [Transifex](https://www.transifex.com/) `requires-approval` - Localization platform for translating digital content.
 - [Weblate](https://weblate.org/) `requires-approval` - Web-based continuous localization.
@@ -124,6 +124,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
 - [Libraries.io](https://libraries.io/) - Open source discovery service.
 - [LoginRadius](https://www.loginradius.com/)  `requires-approval`  - Authentication and SSO Made Simple.
+- [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
 - [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
 - [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
