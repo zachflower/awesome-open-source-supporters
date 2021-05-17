@@ -35,7 +35,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 - [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
 - [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
-- [SensioLabsInsight](https://insight.sensiolabs.com/) - Automated code review for PHP.
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 - [Sider](https://sider.review/) - Automated code review.
 - [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
