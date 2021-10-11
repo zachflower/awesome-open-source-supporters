@@ -125,6 +125,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [LoginRadius](https://www.loginradius.com/)  `requires-approval`  - Authentication and SSO Made Simple.
 - [Mailman 3](https://mailman3.com/) `requires-approval` - Mailing lists for distributed teams.
 - [Mailtrap](https://mailtrap.io/) `requires-approval` - Fake SMTP testing server.
+- [MojoAuth](https://mojoauth.com/)- Free Passwordless Authentication Solution.
 - [Netlify](https://www.netlify.com) `requires-approval` - Hosting for static sites.
 - [Sourcegraph](https://sourcegraph.com/) - Smart source code transparency.
 - [Siteleaf](https://www.siteleaf.com/) - CMS for static sites.
