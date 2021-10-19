@@ -114,7 +114,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
 - [BackHub](https://backhub.co/) - Automated GitHub repository backups.
-- [Beamdock](https://beamdock.com) - `requires-approval` - Helps you gather user feedback, features requests, schedule interview session with users and notify customers about feature rollouts.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
 - [Codota](https://www.codota.com/) - AI pair programming assistant.
