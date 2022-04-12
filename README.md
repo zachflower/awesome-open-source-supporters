@@ -47,7 +47,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
 - [Codeship](https://codeship.com/) - Continuous integration, delivery, and deployment.
-- [continuousphp](https://continuousphp.com/) - CI/CD for PHP applications.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
 - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
