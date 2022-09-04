@@ -94,6 +94,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Crowdin](https://crowdin.com/) `requires-approval` - Localization management platform.
 - [LingoHub](https://lingohub.com/) `requires-approval` - Translation management.
 - [Locale](https://www.localeapp.com/) - Localization and Translation.
+- [locize](https://www.locize.com/) `requires-approval` - Continuous localization management platform.
 - [Lokalise](https://lokalise.com/) `requires-approval` - Localization and Translation Software Tool.
 - [POEditor](https://poeditor.com/) `requires-approval` - Localization management platform.
 - [Transifex](https://www.transifex.com/) `requires-approval` - Localization platform for translating digital content.
