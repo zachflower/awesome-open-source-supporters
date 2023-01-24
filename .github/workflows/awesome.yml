@@ -16,11 +16,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1
-    - name: Set up Ruby 2.6
-      uses: actions/setup-ruby@v1
+    - name: Set up Ruby 3.0
+      uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 2.6.x
-        language: ruby
+        ruby-version: '3.0'
     - name: Test with Awesome Bot
       run: |
         gem install awesome_bot
