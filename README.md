@@ -33,7 +33,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [Hound](https://houndci.com/) - Source code style review.
 - [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
-- [QuantifiedCode](https://www.quantifiedcode.com/) - Automated code review & repair for Python.
 - [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 - [Sider](https://sider.review/) - Automated code review.
@@ -50,7 +49,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
 - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
-- [Shippable](https://www.shippable.com/) - DevOps automation.
 - [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
 
 ## Dependency Management
@@ -60,7 +58,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [pyup.io](https://pyup.io/) - Python dependency management.
 - [Snyk](https://snyk.io/) - Continuous dependency vulnerability assessment.
 - [Tachikoma.io](http://tachikoma.io/) - Dependency update as a service.
-- [WhiteSource](https://www.whitesourcesoftware.com/) - Open source security and license management.
 
 ## Documentation
 
@@ -86,7 +83,6 @@ A curated list of awesome companies that offer their tools and services for free
 ## Monitoring
 
 - [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
-- [DNS Spy](https://dnsspy.io/) `requires-approval` - DNS monitoring.
 - [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron job monitoring.
 
 ## Localization
