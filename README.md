@@ -35,7 +35,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 - [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
-- [Sider](https://sider.review/) - Automated code review.
 - [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
 - [StyleCI](https://styleci.io/) - PHP code style review.
 
