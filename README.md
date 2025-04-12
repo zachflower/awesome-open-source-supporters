@@ -36,6 +36,8 @@ A curated list of awesome companies that offer their tools and services for free
 - [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 - [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
 - [StyleCI](https://styleci.io/) - PHP code style review.
+- [Fynix](https://www.fynix.ai/)- Write smarter, faster, and cleaner code. 
+
 
 ## Continuous Integration
 
