@@ -74,7 +74,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 ## Project Management
 
-- [Taiga.io](https://taiga.io/) - Project management for agile developers.
 - [ZenHub](https://www.zenhub.com/) - Agile GitHub project management.
 - [Zube](https://zube.io/) - Project management for GitHub issues.
 
@@ -107,10 +106,8 @@ A curated list of awesome companies that offer their tools and services for free
 - [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
 - [Authgear](https://www.authgear.com) - Open source solution for consumer authentication needs. Supports OIDC and SAML.
-- [BackHub](https://backhub.co/) - Automated GitHub repository backups.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
-- [Codota](https://www.codota.com/) - AI pair programming assistant.
 - [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
