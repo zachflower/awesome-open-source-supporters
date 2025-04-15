@@ -105,6 +105,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
 - [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
+- [Authgear](https://www.authgear.com) - Open source solution for consumer authentication needs. Supports OIDC and SAML.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
 - [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
