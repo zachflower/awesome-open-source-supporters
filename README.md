@@ -121,6 +121,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
 - [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
 - [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
+- [Bifrost by Maxim AI](https://www.getmaxim.ai/bifrost/) - Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput.
 
 ## Contributing
 
