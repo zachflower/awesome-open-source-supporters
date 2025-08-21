@@ -105,6 +105,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [Apiary](https://apiary.io/) `requires-approval` - API design, development, and documentation platform.
 - [Atlassian](https://www.atlassian.com/software/views/open-source-license-request) `requires-approval` - Productivity tools for teams (Jira, Confluence, Bamboo, HipChat).
 - [Auth0](https://auth0.com/) `requires-approval` - SSO & token-based authentication.
+- [Bifrost by Maxim AI](https://www.getmaxim.ai/bifrost/) - Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput.
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
 - [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
@@ -121,7 +122,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [testmail.app](https://testmail.app/) `requires-approval` - Automate end-to-end email tests with unlimited mailboxes and a GraphQL API.
 - [Transloadit](https://transloadit.com/) `requires-approval` - API for file uploading & encoding.
 - [Zulip](https://zulip.com) `requires-approval` - Chat for distributed teams.
-- [Bifrost by Maxim AI](https://www.getmaxim.ai/bifrost/) - Bifrost is a high-performance LLM gateway that connects 1000+ models through a single API interface with extremely high throughput.
+
 
 ## Contributing
 
