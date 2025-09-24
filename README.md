@@ -30,6 +30,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [codebeat](https://codebeat.co/) - Automated code review for mobile and web.
 - [CodeFactor](https://www.codefactor.io/) - Automated static analysis for C#, Java, CSS, JS, Ruby, Go and Python source code.
 - [Hound](https://houndci.com/) - Source code style review.
+- [Kodus](https://kodus.io/) - Open-source code review agent.
 - [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 - [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
