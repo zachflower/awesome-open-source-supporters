@@ -43,6 +43,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [CircleCI](https://circleci.com/) - Docker-based building with support of customized workflows.
 - [Codefresh](https://codefresh.io/) - Docker-native CI/CD.
 - [DeployHQ](https://www.deployhq.com/) `requires-approval` - Deployment automation.
+- [Latchkey](https://latchkey.dev/open-source) `requires-approval` - Self-healing GitHub Actions runners with a CLI and MCP server for coding agents.
 - [Sauce Labs](https://saucelabs.com/) - Cross-browser testing, Selenium testing, and mobile testing.
 - [Semaphore](https://semaphoreci.com/) - Fast automated CI/CD.
 - [Travis-CI](https://travis-ci.org/) - Automated CI/CD for Open Source.
