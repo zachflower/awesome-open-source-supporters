@@ -105,6 +105,7 @@ A curated list of awesome companies that offer their tools and services for free
 - [BrowserStack](https://www.browserstack.com/) `requires-approval` - Cross-browser testing tool.
 - [Cloud9](https://c9.io/) - Cloud-based development environments.
 - [Firezone](https://www.firezone.dev/) `requires-approval` - Self-hosted remote access built on WireGuard.
+- [Fixa](https://fixa.dev/open-source) - AI software engineer that turns GitHub issues into tested pull requests, free on public repositories with 50+ stars.
 - [GlobalSign](https://www.globalsign.com/en/ssl/ssl-open-source/) `requires-approval` - SSL certificates for open source projects.
 - [Helpmonks](https://helpmonks.com/) `requires-approval` - Collaborative team email inboxes.
 - [JetBrains](https://www.jetbrains.com/buy/opensource/) `requires-approval` `non-commercial` - Software vendor specializing in the creation of intelligent development tools.
